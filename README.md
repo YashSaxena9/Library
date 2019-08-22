@@ -1,6 +1,6 @@
 # Have a doubt ? Clear with these books. :point_down:
 
-### The Java Complete Reference 9th Editio
+### The Java Complete Reference 9th Edition
 :heavy_check_mark: [Java complete reference](https://github.com/Shailendra-Java/Library/blob/master/Java%20-%20The%20Complete%20Reference%2C%209th%20Edition%20-%20Herbert%20Schildt.pdf).
 
 ### Head First Java :link: for new to JAVA
